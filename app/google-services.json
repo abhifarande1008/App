@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855012519903",
+    "project_id": "diploma-aspirants",
+    "storage_bucket": "diploma-aspirants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855012519903:android:8e1a7971e562a2d1615e6a",
+        "android_client_info": {
+          "package_name": "com.apps.diploma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855012519903-u8s0cikog5u2sdj5jo7ri8fstvv87tfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.diploma",
+            "certificate_hash": "a7e051e7056a837754e0625eb8d773eea1ec4ff9"
+          }
+        },
+        {
+          "client_id": "855012519903-6hc7o3jfv35gjt75snok4ec7m2pe9ac8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-fL1_lvZ3K2RitxAk8ecKxMOPPZ6FFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855012519903-6hc7o3jfv35gjt75snok4ec7m2pe9ac8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

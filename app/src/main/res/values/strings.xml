@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diploma Aspirants</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Diploma Aspirants</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_web">MSBTE Website</string>
+    <string name="menu_posts">MSBTE Posts</string>
+    <string name="download">Download</string>
+
+    <string name="appAdId">ca-app-pub-4448917615540841~7856823303</string>
+    <string name="homeAdId">ca-app-pub-4448917615540841/4369251859</string>
+    <string name="webAdId">ca-app-pub-4448917615540841/8113055742</string>
+</resources>
